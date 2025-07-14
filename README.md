@@ -1,88 +1,48 @@
-\# 📚 QuizShip
+# 📚 QuizShip
 
-
-
-\*\*QuizShip\*\* is a Java-based desktop application for managing online quizzes in a classroom setting. It enables teachers to create and assign quizzes to student batches, and automatically deliver them via email (with/without PDF attachments). The application supports teacher-student workflows, quiz management, PDF generation, and email notifications using the JavaMail API.
-
-
+**QuizShip** is a Java-based desktop application for managing online quizzes in a classroom setting. It enables teachers to create and assign quizzes to student batches, and automatically deliver them via email (with/without PDF attachments). The application supports teacher-student workflows, quiz management, PDF generation, and email notifications using the JavaMail API.
 
 ---
 
+## ✨ Features
 
-
-\## ✨ Features
-
-
-
-\- 🔐 User registration with role-based handling (Teacher/Student)
-
-\- 👨‍🏫 Teacher dashboard to:
-
-&nbsp; - Create batches
-
-&nbsp; - Add questions with options and difficulty
-
-&nbsp; - Create quizzes and assign to batches
-
-\- 👩‍🎓 Student allocation to batches
-
-\- 📄 Auto-generation of quiz PDFs
-
-\- 📬 Email delivery of quizzes to students
-
-\- ✅ Welcome email on successful registration
-
-\- 🗂️ Logging of system-level errors into the database
-
-\- 🧵 Multithreading and responsive Swing GUI
-
-
+- 🔐 User registration with role-based handling (Teacher/Student)
+- 👨‍🏫 Teacher dashboard to:
+  - Create batches
+  - Add questions with options and difficulty
+  - Create quizzes and assign to batches
+- 👩‍🎓 Student allocation to batches
+- 📄 Auto-generation of quiz PDFs
+- 📬 Email delivery of quizzes to students
+- ✅ Welcome email on successful registration
+- 🗂️ Logging of system-level errors into the database
+- 🧵 Multithreading and responsive Swing GUI
 
 ---
 
-
-
-\## 💻 Tech Stack
-
-
+## 💻 Tech Stack
 
 | Technology     | Purpose                            |
-
 |----------------|------------------------------------|
-
 | Java (JDK 17+) | Core development                   |
-
 | Swing          | Graphical User Interface (GUI)     |
-
 | JDBC           | MySQL database connectivity        |
-
 | MySQL          | Backend database                   |
-
 | JavaMail API   | Email handling with attachments    |
-
 | iTextPDF       | Generating PDFs of quizzes         |
-
 | MVC + OOP      | Code organization and structure    |
-
 | Logging        | Exception tracking and debugging   |
-
-
 
 ---
 
+## 🛠️ Installation & Setup Guide
 
-
-\## 🛠️ Installation \& Setup Guide
-
-
-
-\### Step 1: Clone the Repository
-
-```bash
+### Step 1: Clone the Repository
 
 git clone https://github.com/SejalRokade/QuizShip.git
 
-Step 2: Open in IntelliJ
+
+### Step 2: Open in IntelliJ
 
 File → Open → Select project folder.
 
@@ -104,7 +64,7 @@ Compiler Output: ./out (or your desired build folder)
 
 
 
-Step 3: Setup Database
+### Step 3: Setup Database
 
 Create a new MySQL database.
 
@@ -126,7 +86,7 @@ String user = "your\_username";
 
 String password = "your\_password";
 
-Step 4: Configure Email
+### Step 4: Configure Email
 
 If using Gmail:
 
@@ -148,7 +108,7 @@ String senderEmail = "your\_email@gmail.com";
 
 String senderPassword = "your\_app\_password";
 
-🧾 Database Tables Overview
+## 🧾 Database Tables Overview
 
 Table Name	Description
 
@@ -174,7 +134,7 @@ t\_error\_logger	Logs any exceptions or errors
 
 
 
-📁 Folder Structure
+## 📁 Folder Structure
 
 QuizShip/
 
@@ -202,7 +162,7 @@ QuizShip/
 
 └── README.md
 
-🧪 Sample Workflow
+## 🧪 Sample Workflow
 
 Register as Teacher or Student
 
@@ -244,7 +204,7 @@ new Thread(() -> {
 
 }).start();
 
-❗ Troubleshooting
+## ❗ Troubleshooting
 
 Issue	Solution
 
@@ -258,7 +218,7 @@ Auth error 535-5.7.8	Use App Passwords
 
 
 
-📬 Sample Email Sent
+## 📬 Sample Email Sent
 
 Subject: Welcome! You Have Been Successfully Registered as a Student
 
@@ -278,7 +238,7 @@ Happy Learning!
 
 \- Team QuizShip
 
-🚀 Future Scope
+## 🚀 Future Scope
 
 ✅ Result Evaluation \& Grading System
 
@@ -296,7 +256,7 @@ Happy Learning!
 
 
 
-👩‍💻 Developer
+## 👩‍💻 Developer
 
 Sejal Rokade
 
@@ -306,7 +266,7 @@ GitHub: @SejalRokade
 
 
 
-📜 License
+## 📜 License
 
 This project is under the MIT License.
 
