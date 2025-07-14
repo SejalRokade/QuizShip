@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Quiz-Project-main.iml" filepath="$PROJECT_DIR$/.idea/Quiz-Project-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jar/09/barcodes.iml" filepath="$PROJECT_DIR$/Jar/09/barcodes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jar/08/font-asian.iml" filepath="$PROJECT_DIR$/Jar/08/font-asian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jar/08/forms.iml" filepath="$PROJECT_DIR$/Jar/08/forms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jar/07/hyph.iml" filepath="$PROJECT_DIR$/Jar/07/hyph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jar/06/io.iml" filepath="$PROJECT_DIR$/Jar/06/io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jar/06/itext7-core.iml" filepath="$PROJECT_DIR$/Jar/06/itext7-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jar/05/kernel.iml" filepath="$PROJECT_DIR$/Jar/05/kernel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jar/04/layout.iml" filepath="$PROJECT_DIR$/Jar/04/layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jar/03/pdfa.iml" filepath="$PROJECT_DIR$/Jar/03/pdfa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jar/03/pdftest.iml" filepath="$PROJECT_DIR$/Jar/03/pdftest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jar/02/root.iml" filepath="$PROJECT_DIR$/Jar/02/root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jar/02/sign.iml" filepath="$PROJECT_DIR$/Jar/02/sign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jar/01/styled-xml-parser.iml" filepath="$PROJECT_DIR$/Jar/01/styled-xml-parser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jar/01/svg.iml" filepath="$PROJECT_DIR$/Jar/01/svg.iml" />
+    </modules>
+  </component>
+</project>

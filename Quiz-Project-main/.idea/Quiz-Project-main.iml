@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/QuizApp/Loging/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="openjdk-22" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/Jar/01/svg-7.1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$MODULE_DIR$/Jar/01/styled-xml-parser-7.1.3-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/Jar/01/svg-7.1.3-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/Jar/01/styled-xml-parser-7.1.3-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/Jar/01/svg-7.1.3-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/Jar/02/styled-xml-parser-7.1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/Jar/02/sign-7.1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/Jar/03/pdfa-7.1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/Jar/03/pdftest-7.1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$MODULE_DIR$/Jar/02/pdftest-7.1.3-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/Jar/03/pdfa-7.1.3-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/Jar/02/sign-7.1.3-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/Jar/03/pdfa-7.1.3-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/Jar/02/pdftest-7.1.3-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/Jar/02/sign-7.1.3-sources.jar!/" />
+          <root url="file://$MODULE_DIR$/Jar/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0/src/build/java" />
+          <root url="file://$MODULE_DIR$/Jar/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0/src/demo/java" />
+          <root url="file://$MODULE_DIR$/Jar/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0/src/generated/java" />
+          <root url="file://$MODULE_DIR$/Jar/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0/src/legacy/java" />
+          <root url="file://$MODULE_DIR$/Jar/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0/src/main/core-api/java" />
+          <root url="file://$MODULE_DIR$/Jar/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0/src/main/core-impl/java" />
+          <root url="file://$MODULE_DIR$/Jar/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0/src/main/protocol-impl/java" />
+          <root url="file://$MODULE_DIR$/Jar/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0/src/main/user-api/java" />
+          <root url="file://$MODULE_DIR$/Jar/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0/src/main/user-impl/java" />
+          <root url="file://$MODULE_DIR$/Jar/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0/src/test/java" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/Jar/04/layout-7.1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/Jar/05/kernel-7.1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/Jar/04/layout-7.1.3-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/Jar/05/kernel-7.1.3-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/Jar/06/io-7.1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$MODULE_DIR$/Jar/06/io-7.1.3-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/Jar/06/io-7.1.3-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/Jar/07/forms-7.1.3-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/Jar/08/forms-7.1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/Jar/09/barcodes-7.1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$MODULE_DIR$/Jar/08/forms-7.1.3-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/Jar/09/barcodes-7.1.3-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/Jar/09/barcodes-7.1.3-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/Jar/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/Jar/New folder/activation-1.1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/Jar/New folder/jakarta.mail-api-2.1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/Jar/New folder/javax.mail.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/Jar/New folder/jar_files/itextpdf-5.5.9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="layout" />
+        <module name="svg" />
+        <module name="styled-xml-parser" />
+        <module name="pdftest" />
+        <module name="kernel" />
+        <module name="io" />
+        <module name="sign" />
+        <module name="hyph" />
+        <module name="pdfa" />
+        <module name="font-asian" />
+        <module name="barcodes" />
+        <module name="forms" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="barcodes" target="1.7" />
+      <module name="font-asian" target="1.7" />
+      <module name="forms" target="1.7" />
+      <module name="hyph" target="1.7" />
+      <module name="io" target="1.7" />
+      <module name="itext7-core" target="1.5" />
+      <module name="kernel" target="1.7" />
+      <module name="layout" target="1.7" />
+      <module name="pdfa" target="1.7" />
+      <module name="pdftest" target="1.7" />
+      <module name="root" target="1.7" />
+      <module name="sign" target="1.7" />
+      <module name="styled-xml-parser" target="1.7" />
+      <module name="svg" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
