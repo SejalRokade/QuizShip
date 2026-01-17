@@ -266,27 +266,6 @@ GitHub: @SejalRokade
 
 
 
-## 📜 License
-
-This project is under the MIT License.
-
-
-
-
-
-Let me know if you'd like me to add:
-
-\- Screenshots
-
-\- GitHub badges (build passing, license, etc.)
-
-\- Database `.sql` file content
-
-\- Automatic email templates as `.eml` or `.txt` files
-
-
-
-Just ask — I’ll generate that too!
 
 
 
